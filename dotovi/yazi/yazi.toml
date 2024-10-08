@@ -1,0 +1,6 @@
+[manager]
+show_hidden = true
+[terminal]
+command="/nix/store/mi1llp6lc7s3p9l463rq99mhf9w41j26-kitty-0.34.1/bin/kitty"
+
+
